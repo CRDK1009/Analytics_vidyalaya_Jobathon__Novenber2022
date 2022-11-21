@@ -1,0 +1,6 @@
+C R Deepak Kumar
+1. Fixed Missing values using Interpolation Technique.
+2. Made a new training data with Moving Average 1000 hrs.
+3. Trainied the TCN model with Training and Validation data.
+4. Forecasted data for the next 3 years.
+5. Submitted the forecasted data.
